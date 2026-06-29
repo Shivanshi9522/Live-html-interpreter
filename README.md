@@ -29,14 +29,14 @@ A browser-based real-time code editor that interprets HTML, CSS, and JavaScript 
 
 No npm install, no build step. It just works.
 
-🎯 What I Learned
+## 🎯 What I Learned
 
 - DOM manipulation and event handling in vanilla JavaScript
 - Using `iframe` to safely render user-generated HTML
 - Implementing real-time updates with `input` and `keyup` events
 - Structuring code without external libraries
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - [ ] Add syntax highlighting using http://Prism.js or CodeMirror
 - [ ] Save/load code snippets using localStorage
